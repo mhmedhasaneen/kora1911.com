@@ -1,0 +1,498 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"
+  xmlns:product="http://ogp.me/ns/product#"> <!--<![endif]-->
+<head itemscope itemtype="http://schema.org/WebSite">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="The submission deadline is January 30, 2020 at 3:00 pm EST." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://dartcenter.org/node/20381" />
+<link rel="shortlink" href="https://dartcenter.org/node/20381" />
+<meta property="og:site_name" content="Dart Center" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="2020 Dart Awards Entry Form" />
+<meta property="og:url" content="https://dartcenter.org/node/20381" />
+<meta property="og:description" content="The submission deadline is January 30, 2020 at 3:00 pm EST." />
+<meta property="og:updated_time" content="2019-12-16T11:19:38-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://dartcenter.org/node/20381" />
+<meta name="twitter:title" content="2020 Dart Awards Entry Form" />
+<meta name="twitter:description" content="The submission deadline is January 30, 2020 at 3:00 pm EST." />
+<meta property="article:published_time" content="2019-12-16T11:18:45-05:00" />
+<meta property="article:modified_time" content="2019-12-16T11:19:38-05:00" />
+  <title itemprop="name">2020 Dart Awards Entry Form - Dart Center</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link rel="apple-touch-icon" href="/sites/all/themes/dartcenter/apple-touch-icon.png">
+  <link rel="shortcut icon" href="/sites/all/themes/dartcenter/favicon.ico?v=001" />
+  <link type="text/css" rel="stylesheet" href="https://dartcenter.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://dartcenter.org/sites/default/files/css/css_1v1p6c3aYqINkya-CnRDeLYnpIDB3CJKRfC0JfKYsxw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://dartcenter.org/sites/default/files/css/css_hR-iZ_yz_txFBJ9GrjlvsKYDqZzImBb2HpX-zvLFeyY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://dartcenter.org/sites/default/files/css/css_7gT4MiPjw1MBwN4Z694xZm_JWrXHqMW_d-WlN_jM4q8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://dartcenter.org/sites/default/files/css/css_P65vJUlUQPc3_Ww3nvjyQ58Jv-8U-enO9YzerH3DbJo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://dartcenter.org/sites/default/files/css/css_NtVsPYp-9u-C6hxmDyaHXfCkxtrsjPkqOl7IsUYdQoo.css" media="print" />
+  <script src="//use.typekit.net/xlc3ynu.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+  <script src="/sites/all/themes/dartcenter/js/min/modernizr.min.js"></script>
+  <!--[if lt IE 9]>
+  <script src="/sites/all/themes/dartcenter/js/min/respond.min.js"></script>
+  <![endif]-->
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5Z3PTGQ');</script>
+  <!-- End Google Tag Manager -->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-20381 node-type-webform page-node page-node-20381 sidebar-first" >
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5Z3PTGQ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <div id="fb-root"></div>
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    
+<header id="header">
+
+  <div class="inner">
+                  <div id="site-name"><strong>
+          <a href="/" title="Home" rel="home">
+            <span>Dart Center</span>
+          </a>
+        </strong></div>
+          
+    <a id="burger"></a>
+
+      </div><!-- /.inner -->
+
+  <nav id="main-menu">
+    <div class="wrapper">
+      <form class="dart-resources-keyword-form" action="/node/20381" method="post" id="dart-resources-keyword-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-keyword">
+  <label class="element-invisible" for="edit-keyword">Keyword </label>
+ <input placeholder="Search" type="text" id="edit-keyword" name="keyword" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<button><input type="submit" id="edit-submit--2" name="op" value="Search" class="form-submit" /></button><input type="hidden" name="form_build_id" value="form--UdjlAQw3-h39q-95U9T56VRtX14yHVV0OzYh3DPPMM" />
+<input type="hidden" name="form_id" value="dart_resources_keyword_form" />
+</div></form>      <div class="item-list"><ul id="header-menu"><li class="branch menu-home first"><a href="/">Home</a></li>
+<li class="branch menu-resources expandable"><a href="/resources">Resources</a><span class="dropdown"></span><div class="item-list"><ul class="branch menu-resources expandable"><li class="first"><a href="https://dartcenter.org/resources?type[0]=19">Classroom Resources</a></li>
+<li><a href="https://dartcenter.org/resources?type[0]=14">Featured Resources</a></li>
+<li><a href="https://dartcenter.org/resources?type[0]=17">Multimedia</a></li>
+<li><a href="https://dartcenter.org/resources?type[0]=15">Outside Resources</a></li>
+<li><a href="https://dartcenter.org/resources?type[0]=18">Publications</a></li>
+<li><a href="http://dart.jrn.columbia.edu/">Research Database</a></li>
+<li class="last"><a href="https://dartcenter.org/resources?type[0]=16">Tip Sheets</a></li>
+</ul></div></li>
+<li class="branch menu-topics expandable"><a href="/topics">Topics</a><span class="dropdown"></span><div class="item-list"><ul class="branch menu-topics expandable"><li class="first"><a href="/topic/aftermath-anniversaries">Aftermath &amp; Anniversaries</a></li>
+<li><a href="/topic/children-youth">Children &amp; Youth</a></li>
+<li><a href="/classroom-resources">Classroom Resources</a></li>
+<li><a href="/topic/disaster">Disaster</a></li>
+<li><a href="/topic/homicide-mass-shooting">Homicide &amp; Mass Shooting</a></li>
+<li><a href="/topics/immigrants-refugees">Immigrants &amp; Refugees</a></li>
+<li><a href="/topic/interviewing">Interviewing</a></li>
+<li><a href="/topic/intimate-partner-violence">Intimate Partner Violence</a></li>
+<li><a href="/topics/press-freedom">Press Freedom</a></li>
+<li><a href="/topic/ptsd-mental-health">PTSD &amp; Mental Health</a></li>
+<li><a href="/topic/self-care-peer-support">Self-Care &amp; Peer Support</a></li>
+<li><a href="/topic/sexual-violence">Sexual Violence</a></li>
+<li><a href="/topic/suicide">Suicide</a></li>
+<li><a href="/topic/terrorism">Terrorism</a></li>
+<li><a href="/topic/veterans">Veterans</a></li>
+<li class="last"><a href="/topic/war-civil-conflict">War &amp; Civil Conflict</a></li>
+</ul></div></li>
+<li class="branch menu-global expandable"><a href="/global">Global</a><span class="dropdown"></span><div class="item-list"><ul class="branch menu-global expandable"><li class="first"><a href="/asia-pacific">Dart Centre Asia Pacific</a></li>
+<li class="last"><a href="/europe">Dart Centre Europe</a></li>
+</ul></div></li>
+<li class="branch menu-programs expandable"><a href="/programs">Programs</a><span class="dropdown"></span><div class="item-list"><ul class="branch menu-programs expandable"><li class="first"><a href="/node/12239/">Awards</a></li>
+<li><a href="https://dartcenter.org/events">Events</a></li>
+<li><a href="/node/12240/">Fellowships</a></li>
+<li><a href="/node/12242/">Research Center</a></li>
+<li class="last"><a href="/node/12241/">Trainings</a></li>
+</ul></div></li>
+<li class="branch menu-about expandable last"><a href="/about">About</a><span class="dropdown"></span><div class="item-list"><ul class="branch menu-about expandable"><li class="first"><a href="/about/mission-history">Mission &amp; History</a></li>
+<li><a href="/about/people">People</a></li>
+<li><a href="/press-inquiries">Press Inquiries</a></li>
+<li><a href="/about/in-the-news">Dart in the News</a></li>
+<li><a href="/about/funding">Funders</a></li>
+<li class="last"><a href="/about/contact">Contact Us</a></li>
+</ul></div></li>
+</ul></div>      <div class="corner">
+        <div class="item-list"><ul id="social"><li class="contact first"><a href="/about/contact"><span>Contact</span></a></li>
+<li class="facebook"><a href="https://www.facebook.com/DartCenter" class="external"><span>Facebook</span></a></li>
+<li class="twitter last"><a href="https://twitter.com/DartCenter" class="external"><span>Twitter</span></a></li>
+</ul></div>        <div class="language">
+          <div class="english"><span class="lang">English</span> <span class="icon-triangle-down"></span></div>
+          <div id="google_translate_element"></div>
+        </div>
+      </div>
+
+    </div>
+  </nav>
+
+</header> <!-- /#header -->
+
+
+  
+
+  
+
+  <div id="main">
+    <div class="clearfix">
+    
+    <div id="content" class="column">
+      <a id="main-content"></a>
+                                <div class="tabs"></div>
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content block-content">
+    <div id="node-20381" class="node node-webform full clearfix">
+
+
+        <h1>2020 Dart Awards Entry Form</h1>
+    
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><strong><span>T</span><span>he submission deadline is January 30, 2020 at 3:00 pm EST.</span></strong></p></div></div></div>    <form class="webform-client-form webform-client-form-20381" enctype="multipart/form-data" action="/node/20381" method="post" id="webform-client-form-20381" accept-charset="UTF-8"><div><div class="webform-progressbar">
+      <div class="webform-progressbar-outer">
+      <div class="webform-progressbar-inner" style="width: 0%">&nbsp;</div>
+              <span class="webform-progressbar-page current" style="left: 0%">
+          <span class="webform-progressbar-page-number">1</span>
+                    <span class="webform-progressbar-page-label">
+            Start          </span>
+                  </span>
+              <span class="webform-progressbar-page" style="left: 50%">
+          <span class="webform-progressbar-page-number">2</span>
+                    <span class="webform-progressbar-page-label">
+            Preview          </span>
+                  </span>
+              <span class="webform-progressbar-page" style="left: 100%">
+          <span class="webform-progressbar-page-number">3</span>
+                    <span class="webform-progressbar-page-label">
+            Complete          </span>
+                  </span>
+          </div>
+  
+
+  
+  </div>
+<fieldset class="webform-component-fieldset webform-component--dart-awards-entry-form form-wrapper"><div class="fieldset-wrapper"><div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--news-organization">
+  <label for="edit-submitted-dart-awards-entry-form-news-organization">News Organization <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-dart-awards-entry-form-news-organization" name="submitted[dart_awards_entry_form][news_organization]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--contactlastname">
+  <label for="edit-submitted-dart-awards-entry-form-contactlastname">Contact Last Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-dart-awards-entry-form-contactlastname" name="submitted[dart_awards_entry_form][contactlastname]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--contact-first-name">
+  <label for="edit-submitted-dart-awards-entry-form-contact-first-name">Contact First Name <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-dart-awards-entry-form-contact-first-name" name="submitted[dart_awards_entry_form][contact_first_name]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-email webform-component--dart-awards-entry-form--email-address">
+  <label for="edit-submitted-dart-awards-entry-form-email-address">Email Address <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" class="email form-text form-email required" type="email" id="edit-submitted-dart-awards-entry-form-email-address" name="submitted[dart_awards_entry_form][email_address]" size="60" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--preferred-phone-number">
+  <label for="edit-submitted-dart-awards-entry-form-preferred-phone-number">Preferred Phone Number <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-dart-awards-entry-form-preferred-phone-number" name="submitted[dart_awards_entry_form][preferred_phone_number]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--mailing-address">
+  <label for="edit-submitted-dart-awards-entry-form-mailing-address">Mailing Address <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-dart-awards-entry-form-mailing-address" name="submitted[dart_awards_entry_form][mailing_address]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--city">
+  <label for="edit-submitted-dart-awards-entry-form-city">City <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-dart-awards-entry-form-city" name="submitted[dart_awards_entry_form][city]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--state">
+  <label for="edit-submitted-dart-awards-entry-form-state">State <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-dart-awards-entry-form-state" name="submitted[dart_awards_entry_form][state]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-radios webform-component--dart-awards-entry-form--country">
+  <label for="edit-submitted-dart-awards-entry-form-country">Country / Territory <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-dart-awards-entry-form-country" class="form-radios"><div class="form-item form-type-radio form-item-submitted-dart-awards-entry-form-country">
+ <input required="required" type="radio" id="edit-submitted-dart-awards-entry-form-country-1" name="submitted[dart_awards_entry_form][country]" value="United-States" class="form-radio" />  <label class="option" for="edit-submitted-dart-awards-entry-form-country-1">United States </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-dart-awards-entry-form-country">
+ <input required="required" type="radio" id="edit-submitted-dart-awards-entry-form-country-2" name="submitted[dart_awards_entry_form][country]" value="Canada" class="form-radio" />  <label class="option" for="edit-submitted-dart-awards-entry-form-country-2">Canada </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-dart-awards-entry-form-country">
+ <input required="required" type="radio" id="edit-submitted-dart-awards-entry-form-country-3" name="submitted[dart_awards_entry_form][country]" value="Mexico" class="form-radio" />  <label class="option" for="edit-submitted-dart-awards-entry-form-country-3">Mexico </label>
+
+</div>
+<div class="form-item form-type-radio form-item-submitted-dart-awards-entry-form-country">
+ <input required="required" type="radio" id="edit-submitted-dart-awards-entry-form-country-4" name="submitted[dart_awards_entry_form][country]" value="US_Virgin_Islands" class="form-radio" />  <label class="option" for="edit-submitted-dart-awards-entry-form-country-4">US Virgin Islands </label>
+
+</div>
+</div>
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--zip-code">
+  <label for="edit-submitted-dart-awards-entry-form-zip-code">Zip Code <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-dart-awards-entry-form-zip-code" name="submitted[dart_awards_entry_form][zip_code]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--supervisor">
+  <label for="edit-submitted-dart-awards-entry-form-supervisor">Supervisor </label>
+ <input type="text" id="edit-submitted-dart-awards-entry-form-supervisor" name="submitted[dart_awards_entry_form][supervisor]" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--team-members">
+  <label for="edit-submitted-dart-awards-entry-form-team-members">Team Members <span class="form-required" title="This field is required.">*</span></label>
+ <input required="required" type="text" id="edit-submitted-dart-awards-entry-form-team-members" name="submitted[dart_awards_entry_form][team_members]" value="" size="60" maxlength="128" class="form-text required" />
+ <div class="description">Example: Jane Doe, Investigative Journalist; John Smith, Editor (separate team member names by semicolon)</div>
+</div>
+<div id="edit-submitted-dart-awards-entry-form-cover-letter-ajax-wrapper"><div  class="form-item webform-component webform-component-file webform-component--dart-awards-entry-form--cover-letter">
+  <label for="edit-submitted-dart-awards-entry-form-cover-letter-upload-upload">Cover Letter <span class="form-required" title="This field is required.">*</span></label>
+ <div id="edit-submitted-dart-awards-entry-form-cover-letter-upload" class="form-managed-file"><input type="file" id="edit-submitted-dart-awards-entry-form-cover-letter-upload" name="files[submitted_dart_awards_entry_form_cover_letter]" size="22" class="form-file" /><input type="hidden" name="submitted[dart_awards_entry_form][cover_letter][fid]" value="0" />
+</div>
+ <div class="description">Files must be less than <strong>24 MB</strong>.<br />Allowed file types: <strong>pdf doc docx</strong>.</div>
+</div>
+</div><div id="edit-submitted-dart-awards-entry-form-letter-of-support-ajax-wrapper"><div  class="form-item webform-component webform-component-file webform-component--dart-awards-entry-form--letter-of-support">
+  <label for="edit-submitted-dart-awards-entry-form-letter-of-support-upload-upload">Letter of Support </label>
+ <div id="edit-submitted-dart-awards-entry-form-letter-of-support-upload" class="form-managed-file"><input type="file" id="edit-submitted-dart-awards-entry-form-letter-of-support-upload" name="files[submitted_dart_awards_entry_form_letter_of_support]" size="22" class="form-file" /><input type="hidden" name="submitted[dart_awards_entry_form][letter_of_support][fid]" value="0" />
+</div>
+ <div class="description">The letter of support should be come from the lead editor, chief producer or project supervisor, and should address the news organization's commitment to the entry and/or evidence of influence or impact.<br />Files must be less than <strong>24 MB</strong>.<br />Allowed file types: <strong>gif jpg jpeg png txt rtf html pdf doc docx odt ppt pptx odp xls xlsx ods xml zip</strong>.</div>
+</div>
+</div><div id="edit-submitted-dart-awards-entry-form-full-entry-1-ajax-wrapper"><div  class="form-item webform-component webform-component-file webform-component--dart-awards-entry-form--full-entry-1">
+  <label for="edit-submitted-dart-awards-entry-form-full-entry-1-upload-upload">Full Entry </label>
+ <div id="edit-submitted-dart-awards-entry-form-full-entry-1-upload" class="form-managed-file"><input type="file" id="edit-submitted-dart-awards-entry-form-full-entry-1-upload" name="files[submitted_dart_awards_entry_form_full_entry_1]" size="22" class="form-file" /><input type="hidden" name="submitted[dart_awards_entry_form][full_entry_1][fid]" value="0" />
+</div>
+ <div class="description">PDF, MP3, .MOV preferred
+<strong>
+*Note: Entries that exceed 24 MB should be submitted via WeTransfer or DropBox to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7f0f0d10180d1e120c3f1b1e0d0b1c1a110b1a0d51100d18">[email&#160;protected]</a>
+</strong>
+If the entry exceeds 2 GB, submissions via regular mail or express post will be accepted.
+
+If your entry has multiple parts, please include them individually in the subsequent fields: Full Entry, Full Entry Part II, et al.<br />Files must be less than <strong>24 MB</strong>.<br />Allowed file types: <strong>jpg jpeg tif pdf doc docx avi mov mp3 wav zip</strong>.</div>
+</div>
+</div><div id="edit-submitted-dart-awards-entry-form-full-entry-2-ajax-wrapper"><div  class="form-item webform-component webform-component-file webform-component--dart-awards-entry-form--full-entry-2">
+  <label for="edit-submitted-dart-awards-entry-form-full-entry-2-upload-upload">Full Entry Part II </label>
+ <div id="edit-submitted-dart-awards-entry-form-full-entry-2-upload" class="form-managed-file"><input type="file" id="edit-submitted-dart-awards-entry-form-full-entry-2-upload" name="files[submitted_dart_awards_entry_form_full_entry_2]" size="22" class="form-file" /><input type="hidden" name="submitted[dart_awards_entry_form][full_entry_2][fid]" value="0" />
+</div>
+ <div class="description">Files must be less than <strong>24 MB</strong>.<br />Allowed file types: <strong>jpg jpeg tif pdf doc avi mov mp3 wav zip</strong>.</div>
+</div>
+</div><div id="edit-submitted-dart-awards-entry-form-full-entry-3-ajax-wrapper"><div  class="form-item webform-component webform-component-file webform-component--dart-awards-entry-form--full-entry-3">
+  <label for="edit-submitted-dart-awards-entry-form-full-entry-3-upload-upload">Full Entry Part III </label>
+ <div id="edit-submitted-dart-awards-entry-form-full-entry-3-upload" class="form-managed-file"><input type="file" id="edit-submitted-dart-awards-entry-form-full-entry-3-upload" name="files[submitted_dart_awards_entry_form_full_entry_3]" size="22" class="form-file" /><input type="hidden" name="submitted[dart_awards_entry_form][full_entry_3][fid]" value="0" />
+</div>
+ <div class="description">Files must be less than <strong>24 MB</strong>.<br />Allowed file types: <strong>jpg jpeg tif pdf doc avi mov mp3 wav zip</strong>.</div>
+</div>
+</div><div id="edit-submitted-dart-awards-entry-form-full-entry-4-ajax-wrapper"><div  class="form-item webform-component webform-component-file webform-component--dart-awards-entry-form--full-entry-4">
+  <label for="edit-submitted-dart-awards-entry-form-full-entry-4-upload-upload">Full Entry Part IV </label>
+ <div id="edit-submitted-dart-awards-entry-form-full-entry-4-upload" class="form-managed-file"><input type="file" id="edit-submitted-dart-awards-entry-form-full-entry-4-upload" name="files[submitted_dart_awards_entry_form_full_entry_4]" size="22" class="form-file" /><input type="hidden" name="submitted[dart_awards_entry_form][full_entry_4][fid]" value="0" />
+</div>
+ <div class="description">Files must be less than <strong>24 MB</strong>.<br />Allowed file types: <strong>jpg jpeg tif pdf doc avi mov mp3 wav zip</strong>.</div>
+</div>
+</div><div id="edit-submitted-dart-awards-entry-form-full-entry-5-ajax-wrapper"><div  class="form-item webform-component webform-component-file webform-component--dart-awards-entry-form--full-entry-5">
+  <label for="edit-submitted-dart-awards-entry-form-full-entry-5-upload-upload">Full Entry Part V </label>
+ <div id="edit-submitted-dart-awards-entry-form-full-entry-5-upload" class="form-managed-file"><input type="file" id="edit-submitted-dart-awards-entry-form-full-entry-5-upload" name="files[submitted_dart_awards_entry_form_full_entry_5]" size="22" class="form-file" /><input type="hidden" name="submitted[dart_awards_entry_form][full_entry_5][fid]" value="0" />
+</div>
+ <div class="description">Files must be less than <strong>24 MB</strong>.<br />Allowed file types: <strong>jpg jpeg tif pdf doc avi mov mp3 wav zip</strong>.</div>
+</div>
+</div><div id="edit-submitted-dart-awards-entry-form-full-entry-8-ajax-wrapper"><div  class="form-item webform-component webform-component-file webform-component--dart-awards-entry-form--full-entry-8">
+  <label for="edit-submitted-dart-awards-entry-form-full-entry-8-upload-upload">Full Entry Part VI </label>
+ <div id="edit-submitted-dart-awards-entry-form-full-entry-8-upload" class="form-managed-file"><input type="file" id="edit-submitted-dart-awards-entry-form-full-entry-8-upload" name="files[submitted_dart_awards_entry_form_full_entry_8]" size="22" class="form-file" /><input type="hidden" name="submitted[dart_awards_entry_form][full_entry_8][fid]" value="0" />
+</div>
+ <div class="description">Files must be less than <strong>24 MB</strong>.<br />Allowed file types: <strong>jpg jpeg tif pdf doc avi mov mp3 wav zip</strong>.</div>
+</div>
+</div><div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--live-url4">
+  <label for="edit-submitted-dart-awards-entry-form-live-url4">Live URL </label>
+ <input type="text" id="edit-submitted-dart-awards-entry-form-live-url4" name="submitted[dart_awards_entry_form][live_url4]" value="" size="60" maxlength="128" class="form-text" />
+ <div class="description">Please paste links to media files here.</div>
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--live-url3">
+  <label for="edit-submitted-dart-awards-entry-form-live-url3">Live URL </label>
+ <input type="text" id="edit-submitted-dart-awards-entry-form-live-url3" name="submitted[dart_awards_entry_form][live_url3]" value="" size="60" maxlength="128" class="form-text" />
+ <div class="description">Please paste links to media files here.</div>
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--live-url webform-container-inline">
+  <label for="edit-submitted-dart-awards-entry-form-live-url">Live URL </label>
+ <input type="text" id="edit-submitted-dart-awards-entry-form-live-url" name="submitted[dart_awards_entry_form][live_url]" value="" size="60" maxlength="128" class="form-text" />
+ <div class="description">Please paste links to media files here.</div>
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--live-url2">
+  <label for="edit-submitted-dart-awards-entry-form-live-url2">Live URL </label>
+ <input type="text" id="edit-submitted-dart-awards-entry-form-live-url2" name="submitted[dart_awards_entry_form][live_url2]" value="" size="60" maxlength="128" class="form-text" />
+ <div class="description">Please paste links to media files here.</div>
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--live-url5 webform-container-inline">
+  <label for="edit-submitted-dart-awards-entry-form-live-url5">Live URL </label>
+ <input type="text" id="edit-submitted-dart-awards-entry-form-live-url5" name="submitted[dart_awards_entry_form][live_url5]" value="" size="60" maxlength="128" class="form-text" />
+ <div class="description">Please paste links to media files here.</div>
+</div>
+<div  class="form-item webform-component webform-component-textfield webform-component--dart-awards-entry-form--live-url6 webform-container-inline">
+  <label for="edit-submitted-dart-awards-entry-form-live-url6">Live URL </label>
+ <input type="text" id="edit-submitted-dart-awards-entry-form-live-url6" name="submitted[dart_awards_entry_form][live_url6]" value="" size="60" maxlength="128" class="form-text" />
+ <div class="description">Please paste links to media files here.
+
+Should the entry submitted win the Dart Award, receive an honorable mention, or be named a finalist, I hearby assign and transfer to the Dart Center the right to republish or rebroadcast the story or series, or any part of it, in any form or media, for educational or non-commercial promotion of the Dart Center. I also assign and transfer to the Dart Center the right to electronically post the story or series, or any part of it (including photographs) on the Dart Center’s website. I also grant permission to electronically link or post the story or series to the Dart Center website, for the purposes described above.
+
+I warrant that I am the lead reporter, news director or executive editor of the news organization that published or broadcast the entry described above, and that the news organization and/or individual is the sole owner of the rights of the work.</div>
+</div>
+<div  class="form-item webform-component webform-component-select webform-component--dart-awards-entry-form--release-waiver">
+  <label for="edit-submitted-dart-awards-entry-form-release-waiver">Release/Waiver <span class="form-required" title="This field is required.">*</span></label>
+ <select required="required" id="edit-submitted-dart-awards-entry-form-release-waiver" name="submitted[dart_awards_entry_form][release_waiver]" class="form-select required"><option value="" selected="selected">- Select -</option><option value="i agree with the statement above">I agree with the statement above</option></select>
+</div>
+<div  class="form-item webform-component webform-component-date webform-component--dart-awards-entry-form--date">
+  <label for="edit-submitted-dart-awards-entry-form-date">Date <span class="form-required" title="This field is required.">*</span></label>
+ <div class="webform-container-inline webform-datepicker"><div class="form-item form-type-select form-item-submitted-dart-awards-entry-form-date-month">
+  <label class="element-invisible" for="edit-submitted-dart-awards-entry-form-date-month">Month </label>
+ <select class="month form-select" required="required" id="edit-submitted-dart-awards-entry-form-date-month" name="submitted[dart_awards_entry_form][date][month]"><option value="" selected="selected">Month</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>
+</div>
+<div class="form-item form-type-select form-item-submitted-dart-awards-entry-form-date-day">
+  <label class="element-invisible" for="edit-submitted-dart-awards-entry-form-date-day">Day </label>
+ <select class="day form-select" required="required" id="edit-submitted-dart-awards-entry-form-date-day" name="submitted[dart_awards_entry_form][date][day]"><option value="" selected="selected">Day</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+</div>
+<div class="form-item form-type-select form-item-submitted-dart-awards-entry-form-date-year">
+  <label class="element-invisible" for="edit-submitted-dart-awards-entry-form-date-year">Year </label>
+ <select class="year form-select" required="required" id="edit-submitted-dart-awards-entry-form-date-year" name="submitted[dart_awards_entry_form][date][year]"><option value="" selected="selected">Year</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option></select>
+</div>
+<input type="image" src="/sites/all/modules/contrib/webform/images/calendar.png" class="webform-calendar webform-calendar-start-2017-12-22 webform-calendar-end-2021-12-22 webform-calendar-day-0" alt="Open popup calendar" title="Open popup calendar" />
+</div>
+</div>
+<div  class="form-item webform-component webform-component-select webform-component--dart-awards-entry-form--entry-fee">
+  <label for="edit-submitted-dart-awards-entry-form-entry-fee">Entry Fee: Payment Agreement <span class="form-required" title="This field is required.">*</span></label>
+ <select required="required" id="edit-submitted-dart-awards-entry-form-entry-fee" name="submitted[dart_awards_entry_form][entry_fee]" class="form-select required"><option value="" selected="selected">- Select -</option><option value="Yes">I understand my submission will not be reviewed until I have paid the entry fee via the secure link below, or via check.</option></select>
+</div>
+<div  class="form-item webform-component webform-component-markup webform-component--dart-awards-entry-form--entry-fee-credit">
+ <p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KB5ED9XYEGTWW" target="blank">Click here to submit $50 Dart Awards Entry Fee via credit or debit</a>. Be sure to click "Preview" below once you've submitted payment and completed your application. </p>
+</div>
+<div  class="form-item webform-component webform-component-markup webform-component--dart-awards-entry-form--entry-fee-check">
+ <p>If you're paying by check, please make $50 entry fee payable to <strong>Columbia University</strong> and mail to:</p>
+<p><strong>Dart Center<br />ATTN: Kelly Boyce<br />2950 Broadway, Suite 507<br />New York, NY 10027</strong></p>
+<p><strong>If you do not receive a confirmation email after submitting, please write to <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="2651434443424f52495466424754524543485243540849544108">[email&#160;protected]</a></strong></p>
+</div>
+</div></fieldset>
+<input type="hidden" name="details[sid]" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="2" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-G8xnWAku6EfgSAA-RF3d-zLo5N2macvcTjzpQB5HlRk" />
+<input type="hidden" name="form_id" value="webform_client_form_20381" />
+<div class="form-actions"><input class="webform-next button-primary form-submit" type="submit" name="op" value="Preview" /></div></div></form>  </div>
+
+</div>
+  </div>
+</div>
+  </div>
+    </div> <!-- /#content -->
+
+        </div>
+  </div> <!-- /#main -->
+
+  
+  <footer id="footer">
+    <div class="inner clearfix">
+            <nav id="footer-menu" class="col-l">
+        <div class="item-list"><ul><li class="branch menu-topics first"><a href="/topics">Topics</a><div class="item-list"><ul class="branch menu-topics"><li class="first"><a href="/topic/aftermath-anniversaries">Aftermath &amp; Anniversaries</a></li>
+<li><a href="/topic/children-youth">Children &amp; Youth</a></li>
+<li><a href="/classroom-resources">Classroom Resources</a></li>
+<li><a href="/topic/disaster">Disaster</a></li>
+<li><a href="/topic/homicide-mass-shooting">Homicide &amp; Mass Shooting</a></li>
+<li><a href="/topics/immigrants-refugees">Immigrants &amp; Refugees</a></li>
+<li><a href="/topic/interviewing">Interviewing</a></li>
+<li><a href="/topic/intimate-partner-violence">Intimate Partner Violence</a></li>
+<li><a href="/topics/press-freedom">Press Freedom</a></li>
+<li><a href="/topic/ptsd-mental-health">PTSD &amp; Mental Health</a></li>
+<li><a href="/topic/self-care-peer-support">Self-Care &amp; Peer Support</a></li>
+<li><a href="/topic/sexual-violence">Sexual Violence</a></li>
+<li><a href="/topic/suicide">Suicide</a></li>
+<li><a href="/topic/terrorism">Terrorism</a></li>
+<li><a href="/topic/veterans">Veterans</a></li>
+<li class="last"><a href="/topic/war-civil-conflict">War &amp; Civil Conflict</a></li>
+</ul></div></li>
+<li class="branch menu-resources"><a href="/resources">Resources</a></li>
+<li class="branch menu-events"><a href="/events">Events</a></li>
+<li class="branch menu-bookstore"><a href="/bookstore">Bookstore</a></li>
+<li class="branch menu-dart-media"><a href="/media">Dart Media</a></li>
+<li class="branch menu-global"><a href="/global">Global</a><div class="item-list"><ul class="branch menu-global"><li class="first"><a href="/asia-pacific">Dart Centre Asia Pacific</a></li>
+<li class="last"><a href="/europe">Dart Centre Europe</a></li>
+</ul></div></li>
+<li class="branch menu-programs"><a href="/programs">Programs</a><div class="item-list"><ul class="branch menu-programs"><li class="first"><a href="/programs/awards">Awards</a></li>
+<li><a href="/programs/fellowships">Fellowships</a></li>
+<li><a href="/research">Research Center</a></li>
+<li class="last"><a href="/programs/training">Trainings</a></li>
+</ul></div></li>
+<li class="branch menu-about last"><a href="/about">About</a><div class="item-list"><ul class="branch menu-about"><li class="first"><a href="/about/contact">Contact Us</a></li>
+<li><a href="/about/in-the-news">Dart in the News</a></li>
+<li><a href="/about/funding">Funding</a></li>
+<li><a href="/about/mission-history">Mission &amp; History</a></li>
+<li><a href="/press-inquiries">Press Inquiries</a></li>
+<li class="last"><a href="/about/people">People</a></li>
+</ul></div></li>
+</ul></div>      </nav>
+      <div class="col-m">
+        <h2 class="block-title">Newsletter Signup</h2>
+        <form action="/node/20381" method="post" id="dart-newsletter-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-email">
+  <label class="element-invisible" for="edit-email">Email Address <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Email Address" required="" type="text" id="edit-email" name="email" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<div class="form-item form-type-checkbox form-item-consent">
+ <input required="" type="checkbox" id="edit-consent" name="consent" value="1" class="form-checkbox required" />  <label class="option" for="edit-consent">I give my consent to be emailed <span class="form-required" title="This field is required.">*</span></label>
+
+</div>
+<div class="form-item form-type-checkbox form-item-consenttotrack">
+ <input type="checkbox" id="edit-consenttotrack" name="consenttotrack" value="1" class="form-checkbox" />  <label class="option" for="edit-consenttotrack">I give my consent for my email activity to be tracked </label>
+
+</div>
+<input type="submit" id="edit-submit" name="op" value="Go" class="form-submit" /><input type="hidden" name="form_build_id" value="form-XMTlD8SKFrUUWNOxnVT015JUt5hePd0_UHKyAEkoOHQ" />
+<input type="hidden" name="form_id" value="dart_newsletter_form" />
+</div></form>        <a href="/contribute" class="donate">Donate</a>      </div>
+      <div class="col-r">
+        <div class="project">
+          The Dart Center is a project of the Columbia University Graduate School of Journalism.
+        </div>
+        <div class="item-list"><ul id="disclaimers"><li class="first"><a href="/rss.xml">RSS</a></li>
+<li class="last"><a href="/privacy-policy">Privacy Policy</a></li>
+</ul></div>        <div class="copyright">
+          &copy; Trustees of Columbia University in the City of New York
+        </div>
+      </div>
+    </div><!-- /.inner -->
+  </footer> <!-- /#footer -->
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://dartcenter.org/sites/default/files/js/js_3jTOEYmG2ik3UDgFNPrFkG04O-ufmY2I3Fhcq-NRaGs.js"></script>
+<script type="text/javascript" src="https://dartcenter.org/sites/default/files/js/js_82llqKvWqo6soMqQc5Bkkhgx4lWd93f301xk5WSsri0.js"></script>
+<script type="text/javascript" src="https://dartcenter.org/sites/default/files/js/js_gPqjYq7fqdMzw8-29XWQIVoDSWTmZCGy9OqaHppNxuQ.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-8265647-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://dartcenter.org/sites/default/files/js/js_FT5NSjDklUfLpsBiHPR-MaT9qBkHWULt0_7nZu4D828.js"></script>
+<script type="text/javascript" src="https://dartcenter.org/sites/default/files/js/js_Amnfs0nxjRSPeN80QkIe3PI2NZGRoHrN2CPZQrzlEJg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"dartcenter","theme_token":"Kiq-eJsv2lgAXDqoBX9S2zFna00W4R05OgCDI11NEHo","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"misc\/form.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"modules\/file\/file.js":1,"sites\/all\/modules\/contrib\/webform\/js\/webform.js":1,"sites\/all\/themes\/dartcenter\/bower_components\/cookieconsent\/build\/cookieconsent.min.js":1,"sites\/all\/themes\/dartcenter\/js\/min\/plugins.min.js":1,"sites\/all\/themes\/dartcenter\/js\/min\/main.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"modules\/file\/file.css":1,"sites\/all\/modules\/contrib\/webform\/css\/webform.css":1,"sites\/all\/themes\/dartcenter\/bower_components\/normalize-css\/normalize.css":1,"sites\/all\/themes\/dartcenter\/bower_components\/cookieconsent\/build\/cookieconsent.min.css":1,"sites\/all\/themes\/dartcenter\/css\/main.css":1,"sites\/all\/themes\/dartcenter\/css\/printer.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/node\/20381":true},"file":{"elements":{"#edit-submitted-dart-awards-entry-form-cover-letter-upload":"pdf,doc,docx","#edit-submitted-dart-awards-entry-form-letter-of-support-upload":"gif,jpg,jpeg,png,txt,rtf,html,pdf,doc,docx,odt,ppt,pptx,odp,xls,xlsx,ods,xml,zip","#edit-submitted-dart-awards-entry-form-full-entry-1-upload":"jpg,jpeg,tif,pdf,doc,docx,avi,mov,mp3,wav,zip","#edit-submitted-dart-awards-entry-form-full-entry-2-upload":"jpg,jpeg,tif,pdf,doc,avi,mov,mp3,wav,zip","#edit-submitted-dart-awards-entry-form-full-entry-3-upload":"jpg,jpeg,tif,pdf,doc,avi,mov,mp3,wav,zip","#edit-submitted-dart-awards-entry-form-full-entry-4-upload":"jpg,jpeg,tif,pdf,doc,avi,mov,mp3,wav,zip","#edit-submitted-dart-awards-entry-form-full-entry-5-upload":"jpg,jpeg,tif,pdf,doc,avi,mov,mp3,wav,zip","#edit-submitted-dart-awards-entry-form-full-entry-8-upload":"jpg,jpeg,tif,pdf,doc,avi,mov,mp3,wav,zip"}}});
+//--><!]]>
+</script>
+  </body>
+</html>
